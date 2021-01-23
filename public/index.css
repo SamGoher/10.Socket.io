@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(244, 250, 220);
+}
+
+.connected {
+  width: 10%;
+  height: 700px;
+  float: left;
+  text-align: center;
+}
+
+.emptyDiv {
+  width: 5%;
+  height: 700px;
+  float: left;
+}
+
+
+.text {
+  width: 75%;
+  float: left;
+  text-align: center;
+}
+
+
+.chat {
+  width: 75%;
+  float: left;
+  text-align: center;
+}
